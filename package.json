@@ -1,0 +1,27 @@
+{
+  "name": "communal-web",
+  "version": "1.0.0",
+  "description": "The web app for the communal coorperative platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hacklift/communal-web.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hacklift/communal-web/issues"
+  },
+  "homepage": "https://github.com/Hacklift/communal-web#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}

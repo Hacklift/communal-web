@@ -47,6 +47,8 @@ Contributors names and contact info
 
 - Anthony Oyathelemhi
   [tonerolima](https://github.com/tonerolima)
+- Russell Nyorere  
+  [neorusse](https://github.com/neorusse)
 
 ## License
 
